@@ -1,0 +1,15 @@
+.navbar {
+	padding: .25rem 1.5rem;
+}
+
+.nav-link:hover {
+	background: #44bcd8;
+}
+
+.nav-link.active {
+	text-transform: uppercase;
+	font-weight: 700;
+	color: black;
+}
+
+
